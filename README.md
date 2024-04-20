@@ -1,5 +1,7 @@
+<p align="center">
 # Hi! Im Rahul 
 ## An Undergraduate Computer Science student
+</p>
 ### 👀 I’m interested in
 - Artificial Intelligence
 - Machine Learning
