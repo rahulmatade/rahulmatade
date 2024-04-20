@@ -1,4 +1,5 @@
-#                Hi! Im Rahul 
+# Hi! Im Rahul 
+## An Undergraduate Computer Science student
 ### 👀 I’m interested in
 - Artificial Intelligence
 - Machine Learning
@@ -9,15 +10,16 @@
 - R Programming
 - Tensorflow
 - Keras
-### 📫 How to reach me 
-- [Gmail](rahulmatade21@gmail.com)
-- [Linkedin](www.linkedin.com/in/rahul-matade)
 ### 🏓 I enjoy hobbies such as
 - Table Tennis
 - Singing
 - Calligraphy
 - Art
 - Music
+### 📫 How to reach me 
+- [Gmail](rahulmatade21@gmail.com)
+- [Linkedin](www.linkedin.com/in/rahul-matade)
+
 
 <!---
 rahulmatade/rahulmatade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
