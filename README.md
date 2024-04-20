@@ -1,10 +1,23 @@
-# Hi! Im Rahul 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#                Hi! Im Rahul 
+### 👀 I’m interested in
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Data Analytics and Visualisation
+### 🌱 I’m currently learning
+- Tableu
+- R Programming
+- Tensorflow
+- Keras
+### 📫 How to reach me 
+- [Gmail](rahulmatade21@gmail.com)
+- [Linkedin](www.linkedin.com/in/rahul-matade)
+### 🏓 I enjoy hobbies such as
+- Table Tennis
+- Singing
+- Calligraphy
+- Art
+- Music
 
 <!---
 rahulmatade/rahulmatade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
