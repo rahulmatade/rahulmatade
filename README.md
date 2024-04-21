@@ -26,9 +26,3 @@
 ### 🔗 Connect with me through...
 - [Gmail](rahulmatade21@gmail.com)
 - [Linkedin](www.linkedin.com/in/rahul-matade)
-
-
-<!---
-rahulmatade/rahulmatade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
