@@ -8,7 +8,7 @@
 - Data Analytics and Visualisation
 
 ### 🧠 I’m currently learning...
-- Tableu
+- Tableau
 - R Programming
 - Tensorflow
 - Keras
@@ -19,9 +19,6 @@
 - Calligraphy
 - Art
 - Music
-
-### 🎵 Currently listening to...
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=37wy1kygvrgqn3rxn1fa8vqk0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=37wy1kygvrgqn3rxn1fa8vqk0&redirect=true)
 
 ### 🔗 Connect with me through...
 - [Gmail](rahulmatade21@gmail.com)
