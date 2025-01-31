@@ -21,5 +21,5 @@
 - Music
 
 ### 🔗 Connect with me through...
-- [Gmail](rahulmatade21@gmail.com)
-- [Linkedin](www.linkedin.com/in/rahul-matade)
+- Gmail: rahulmatade21@gmail.com
+- Linkedin: www.linkedin.com/in/rahul-matade
